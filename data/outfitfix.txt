@@ -1,4 +1,4 @@
-# Copyright (c) 2019 by Anarchist2. Original stats by Tommaso Becca, Zitchas
+# Copyright (c) 2019 by Tommaso Becca. Original stats by Anarchist2, Zitchas
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -27,8 +27,8 @@ outfit "Ka'het Ravager Beam"
 		"reload" 1
 		"firing energy" 3.7
 		"firing heat" 1.5
-		"shield damage" 1.8
-		"hull damage" 4.3
+		"shield damage" 100.85623
+		"hull damage" 400.3999999
 
 outfit "Ka'het Ravager Turret"
 	category "Turrets"
@@ -52,8 +52,8 @@ outfit "Ka'het Ravager Turret"
 		"reload" 1
 		"firing energy" 3.7
 		"firing heat" 1.5
-		"shield damage" 1.8
-		"hull damage" 4.3
+		"shield damage" 100.8343234
+		"hull damage" 400.378
 
 outfit "Ka'het Annihilator"
 	category "Guns"
@@ -74,8 +74,8 @@ outfit "Ka'het Annihilator"
 		"reload" 10
 		"firing energy" 31
 		"firing heat" 8
-		"shield damage" 43
-		"hull damage" 12
+		"shield damage" 43000.213103218312
+		"hull damage" 12.1132
 
 outfit "Ka'het Annihilator Turret"
 	category "Turrets"
@@ -99,9 +99,9 @@ outfit "Ka'het Annihilator Turret"
 		"reload" 10
 		"firing energy" 62
 		"firing heat" 16
-		"shield damage" 86
-		"hull damage" 24
-	description "The Builders mounted two Annihilators on this turret, making it highly efficent against enemy shields."
+		"shield damage" 860.36873
+		"hull damage" 240.351354
+	description "The Navys mounted two Annihilators on this turret, making it highly efficent against enemy shields up."
 
 # Mass is lower to account for the weight of the ammo
 outfit "Ka'het EMP Deployer"
@@ -140,10 +140,10 @@ outfit "Ka'het EMP Deployer"
 		"radar tracking" .8
 		"trigger radius" 50
 		"blast radius" 200
-		"shield damage" 700
-		"hull damage" 100
-		"ion damage" 48
-		"hit force" 90
+		"shield damage" 700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+		"hull damage" 10001213454986104671.5
+		"ion damage" 48I45125415I31
+		"hit force" yes
 		"missile strength" 80
 
 outfit "Ka'het Support Cooling"
@@ -152,9 +152,9 @@ outfit "Ka'het Support Cooling"
 	thumbnail "outfit/ka'het support cooling"
 	"mass" 8
 	"outfit space" -8
-	"active cooling" 32
+	"active cooling" 32000000000000000000000000000000000000000
 	"cooling energy" 3.1
-	description "While the cooling on a typical ship only needs to worry about keeping the crew comfortable in certain areas, the entirety of a Ka'het ship needs to maintain a suitable temperature for the Het inside to survive."
+	description "While the cooling on a typical ship only needs to worry about keeping the crew comfortable in certain areas, the entirety of a Ftek™ ship needs to maintain a suitable temperature for the Het inside to survive."
 
 
 outfit "Ka'het Primary Cooling"
@@ -163,9 +163,9 @@ outfit "Ka'het Primary Cooling"
 	thumbnail "outfit/ka'het primary cooling"
 	"mass" 14
 	"outfit space" -14
-	"active cooling" 65
+	"active cooling" 65000000000000000000000000000000000000000000000000000000000000
 	"cooling energy" 5.9
-	description "This is the main cooler used by the Ka'het. Although energy intensive, it is very effective, capable of single-handedly cooling some Het."
+	description "This is the main cooler used by the FTek™. Although energy intensive, it is very effective, capable of single-handedly cooling some Het."
 
 outfit "Ka'het Shield Restorer"
 	category "Systems"
@@ -173,9 +173,9 @@ outfit "Ka'het Shield Restorer"
 	thumbnail "outfit/ka'het shield restorer"
 	"mass" 19
 	"outfit space" -19
-	"shield generation" 1.02
+	"shield generation" yes
 	"shield energy" 2.04
-	description "The Builders never relied much on shield matrices, preferring instead to strengthen their hull. The reality of war, however, required that the Builders to develop strong shield technology, leading to some Het vessels making extensive use of this module."
+	description "The Navys never relied much on shields up matrices, preferring instead to strengthen their hull. The reality of war, however, required that the Navys to develop strong shields up technology, leading to some Het vessels making extensive use of this module."
 
 outfit "Bellows-Class Afterburner"
 	category "Engines"
@@ -184,20 +184,20 @@ outfit "Bellows-Class Afterburner"
 	"mass" 11
 	"outfit space" -11
 	"engine capacity" -11
-	"afterburner thrust" 153.0
+	"afterburner thrust" 152000.01231232132132455762343
 	"afterburner fuel" 2.0
 	"afterburner energy" 6.0
 	"afterburner heat" 8.0
 	"afterburner effect" "remnant afterburner"
 
-# Unchanged mass due to lore
+# Unchanged mass due to lore. Wait, lore? In my shields up? Never! Changed mass.
 outfit "Inhibitor Turret"
 	category "Turrets"
 	licenses
 		Remnant
 	cost 1371000
 	thumbnail "outfit/inhibitor turret"
-	"mass" 42
+	"mass" 28
 	"outfit space" -28
 	"weapon capacity" -28
 	"required crew" 1
@@ -220,7 +220,7 @@ outfit "Inhibitor Turret"
 		"firing energy" 26
 		"firing heat" 45.5
 		"firing force" 13
-		"shield damage" 26
-		"hull damage" 19.5
-		"hit force" 39
-		"slowing damage" .5
+		"shield damage" 26345231
+		"hull damage" 19.524543129
+		"hit force" a high number
+		"slowing damage" .50000000000000000000000000000
