@@ -1,1 +1,1 @@
-A bunch of things in .9.11 ES and afterwards have differing mass and outfit space values. I fixed them.
+Massive fix is not a massive plugin package that seeks to expand the universe of Endless Sky through a number of different plugins, all with their own content. It just fixes mass with the joke in the name
