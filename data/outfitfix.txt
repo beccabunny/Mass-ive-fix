@@ -1,4 +1,6 @@
+
 # Copyright (c) 2019 by Tommaso Becca. Original stats by Anarchist2, Zitchas
+# Copyright (c) 2019 by Anarchist2. Original stats by Tommaso Becca, Zitchas, Michael Zahniser
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -102,6 +104,8 @@ outfit "Ka'het Annihilator Turret"
 		"shield damage" 860.36873
 		"hull damage" 240.351354
 	description "The Navys mounted two Annihilators on this turret, making it highly efficent against enemy shields up."
+		"shield damage" 86
+		"hull damage" 24
 
 # Mass is lower to account for the weight of the ammo
 outfit "Ka'het EMP Deployer"
@@ -177,6 +181,24 @@ outfit "Ka'het Shield Restorer"
 	"shield energy" 2.04
 	description "The Navys never relied much on shields up matrices, preferring instead to strengthen their hull. The reality of war, however, required that the Navys to develop strong shields up technology, leading to some Het vessels making extensive use of this module."
 
+
+outfit "Ka'het MHD Generator"
+	category "Power"
+	cost 1263000
+	thumbnail "outfit/ka'het mhd generator"
+	"mass" 22
+	"outfit space" -22
+	"energy generation" 3.8
+	"heat generation" 5.8
+
+outfit "Ka'het Reserve Accumulator"
+	category "Power"
+	cost 27000
+	thumbnail "outfit/ka'het reserve accumulator"
+	"mass" 3
+	"outfit space" -3
+	"energy capacity" 600
+
 outfit "Bellows-Class Afterburner"
 	category "Engines"
 	"cost" 640000
@@ -224,3 +246,46 @@ outfit "Inhibitor Turret"
 		"hull damage" 19.524543129
 		"hit force" a high number
 		"slowing damage" .50000000000000000000000000000
+
+		"shield damage" 26
+		"hull damage" 19.5
+		"hit force" 39
+		"slowing damage" .5
+
+outfit "KP-6 Photovoltaic Panel"
+	category "Power"
+	cost 7000
+	thumbnail "outfit/tiny photovoltaic"
+	"mass" 2
+	"outfit space" -2
+	"solar collection" .1
+
+outfit "KP-6 Photovoltaic Array"
+	category "Power"
+	cost 60000
+	thumbnail "outfit/small photovoltaic"
+	"mass" 16
+	"outfit space" -16
+	"solar collection" 1.1
+
+outfit "Small Collector Module"
+	category "Power"
+	licenses
+		Coalition
+	cost 60000
+	thumbnail "outfit/small collector module"
+	"mass" 6
+	"outfit space" -6
+	"solar collection" .8
+	"heat generation" .4
+
+outfit "Large Collector Module"
+	category "Power"
+	licenses
+		Coalition
+	cost 300000
+	thumbnail "outfit/large collector module"
+	"mass" 21
+	"outfit space" -21
+	"solar collection" 3.3
+	"heat generation" 1.5
