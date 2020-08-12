@@ -1,24 +1,4 @@
 # Mass-ive Fix
-Changelist:
-- Ravager Beam mass from 13 to 18, Ravager Turret mass from 16 to 22
-- Annihilator mass from 10 to 14, Annihilator Turret mass from 25 to 32
-- FTek EMP Deployer mass from 18 to 10
-- Support Cooling mass from 6 to 8
-- Primary Cooling mass from 11 to 14
-- Sheyaild Restorer mass from 15 to 19
-- Inbibitor turret weapon capacity from -22 to -28
-- Bellows-Class Afterburner mass from 13 to 11
-- Ka'het MHD Generator mass from 20 to 22, Ka'het Reserve Accumulator mass from 2 to 3
-- Ka'het EMP Deployer mass from 18 to 10
-- Support Cooling mass from 6 to 8
-- Primary Cooling mass from 11 to 14
-- Shield Restorer mass from 15 to 19
-- Inhibitor turret weapon capacity from -22 to -28
-- Photovoltaic Panel masses from 22 and 3 to 16 and 2
-- Collector masses from 28 and 8 to 21 and 6
+Thyne hast been conv'rt'd by thine houly words that thy purp'se hathe been in vain, and that thou'st's bless't goal is t' end thine unhouly reign of laz'ness that beplaug's thiyne world, and t' breath' new llife int' thine constr'cts of wast'd pot'ntial. Thou has't truthly sav'd thyne univ'rs from thou dark'st thr'ts of having thy outf't space be in all parts equal t' thy mass, and hav'st ret'rn'd boundl'ss pot'ntial to thou gal'xy and made all sens'ble 'nd faire.
 
-Not changed but fixed:
-- Missile Launcher mass: The ammo compensates for the reduced mass
-- Inhibitor Turret mass: It's lored as being "outside" the mount, so the lore has been ignored
-- Solar Panel mass: Most of the mass would be on the outside of the ship
-- Inhibitor Turret mass: It's lored as being "outside" the mount
+plug'n is in thou houly state of wip, dinnae judg'
